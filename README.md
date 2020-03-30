@@ -1,5 +1,6 @@
 # AnimatedTabBar
 ### Install last 5 dependincies
+```
  "dependencies": {
     "expo": "~36.0.0",
     "react": "~16.9.0",
@@ -12,3 +13,4 @@
     "react-navigation": "^4.3.5",
     "react-navigation-tabs": "^2.8.9"
   },
+```
