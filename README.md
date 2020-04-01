@@ -1,5 +1,7 @@
 # AnimatedTabBar
 ### Install last 5 dependincies
+
+##### ``` npm install react-native-gesture-handler react-native-reanimated react-native-screens react-navigation react-navigation-tabs ```
 ```
  "dependencies": {
     "expo": "~36.0.0",
